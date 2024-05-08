@@ -1,0 +1,6 @@
+!.gitignore
+.env
+composer.lock
+vendor
+.idea
+public/uploads
